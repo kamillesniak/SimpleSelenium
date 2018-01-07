@@ -1,1 +1,10 @@
 F:\STAF\STAF\STAF\obj\Debug\STAF.csprojResolveAssemblyReference.cache
+F:\STAF\SimpleSelenium\STAF\STAF\obj\Debug\STAF.csprojResolveAssemblyReference.cache
+F:\STAF\SimpleSelenium\STAF\STAF\bin\Debug\STAF.dll
+F:\STAF\SimpleSelenium\STAF\STAF\bin\Debug\STAF.pdb
+F:\STAF\SimpleSelenium\STAF\STAF\bin\Debug\WebDriver.dll
+F:\STAF\SimpleSelenium\STAF\STAF\bin\Debug\WebDriver.Support.dll
+F:\STAF\SimpleSelenium\STAF\STAF\bin\Debug\WebDriver.xml
+F:\STAF\SimpleSelenium\STAF\STAF\bin\Debug\WebDriver.Support.xml
+F:\STAF\SimpleSelenium\STAF\STAF\obj\Debug\STAF.dll
+F:\STAF\SimpleSelenium\STAF\STAF\obj\Debug\STAF.pdb
